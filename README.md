@@ -1,4 +1,5 @@
 # shop_app
+This is backup code for the shopping app for shoe. Its have basic code like initial code
 
 A new Flutter project.
 
